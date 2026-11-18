@@ -2,7 +2,7 @@
 
 *Paper, ink and a little ember.* This is the hub for Phoenix Mobile Advertising and its eleven departments: one place to see what exists, what is live, and what is still coming.
 
-Phoenix helps small businesses in **Eugene, Springfield, Salem, Portland and Roseburg, Oregon** use the same class of tools the big platforms use, set up for local businesses. We are not affiliated with Google, Meta or OpenAI.
+Phoenix helps small businesses in **Eugene, Springfield, Salem, Portland and Roseburg, Oregon** use the same class of tools the big platforms use, set up for local businesses. Klamath Falls, Oregon is the hometown proving ground (Demo #001, in planning). We are not affiliated with Google, Meta or OpenAI.
 
 **Call 541-632-9043 or book a Business X-Ray.**
 
@@ -13,6 +13,15 @@ Phoenix helps small businesses in **Eugene, Springfield, Salem, Portland and Ros
 - **No fakes.** No invented clients, testimonials or results. Anything labeled *example* is example data.
 - **AI education.** We teach owners what the tools do, so they stay in charge of their own marketing.
 - **A human approves.** Nothing is posted or sent until a person signs off.
+
+## Proof record: dated demos
+
+GitHub is the permanent record. One repo per service, one folder per demo, every demo dated (Pacific time). The demo-unit standard is before video, workflow running, after video, timestamp, link. Slots with no media yet say **pending**. Template: [demos/DEMO_TEMPLATE.md](demos/DEMO_TEMPLATE.md).
+
+| # | Date (PT) | Demo | Repo | Status |
+|---|---|---|---|---|
+| 000 | Nov 17, 2026 | [Klamath Falls market scan](https://github.com/williamboyd1221-bit/phoenix-code/tree/main/demos/2026-11-17-klamath-market-scan): population (22,135 city, 69,135 county, PSU 2025), 20-provider scan, domain scan, partner terms check | [phoenix-code](https://github.com/williamboyd1221-bit/phoenix-code) | Written proof done. Video slots pending |
+| 001 | not started | Klamath Falls Demo #001 (hometown experiment) | to be created | Needs written permission before it starts |
 
 ## The eleven departments
 
@@ -35,12 +44,9 @@ More detail per department: [docs/departments.md](docs/departments.md).
 ## Sibling repos
 
 - [phoenix-mobile](https://github.com/williamboyd1221-bit/phoenix-mobile): ad workflow examples
-- [phoenix-code](https://github.com/williamboyd1221-bit/phoenix-code): MCP tooling examples and site-intelligence checklist
-- [rise-brand](https://github.com/williamboyd1221-bit/rise-brand): Rise campaign style guide
+- [phoenix-code](https://github.com/williamboyd1221-bit/phoenix-code): MCP tooling examples, site-intelligence checklist and dated demos
 - [phoenix-vows](https://github.com/williamboyd1221-bit/phoenix-vows): wedding brand editorial specs
 
 ## Brand
 
-Paper `#f4efe6`, ink `#12100e`, ember `#e36a2e`. Newsreader serif. Circular monogram.
-
-*Rise* is a separate campaign style (green, black, white) and is documented only in its own repo.
+Paper `#f4efe6`, ink `#12100e`, ember `#e36a2e`. Newsreader serif. Phoenix mark: gold PHOENIX lettering above the platinum bird.
